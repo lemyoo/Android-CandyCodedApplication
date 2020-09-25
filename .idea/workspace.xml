@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,9 +165,25 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="I think its the first one">
+      <created>1601003183064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601003183064</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="I think its the first one" />
+    <option name="LAST_COMMIT_MESSAGE" value="I think its the first one" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="488" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1601003374932">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="488" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1366.736@0.0.1366.736" timestamp="1601003374932" />
     <state x="531" y="257" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601001158568">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -179,6 +192,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="263" y="23" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.736@0.0.1366.736" timestamp="1601001144110" />
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1601003181117">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601003181117" />
     <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1601002959517">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -195,5 +212,9 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state width="1323" height="277" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601002959517" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601003708784">
+      <screen x="0" y="0" width="1366" height="736" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1601003708784" />
   </component>
 </project>

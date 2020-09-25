@@ -63,7 +63,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android App.MainActivity">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -238,8 +238,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android App.MainActivity" />
         <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
+        <item itemvalue="Android App.MainActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -307,10 +307,10 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="263" y="23" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.736@0.0.1366.736" timestamp="1601001144110" />
-    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1601007837687">
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1601008054478">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601007837687" />
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601008054478" />
     <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1601007856372">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
@@ -327,9 +327,9 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state width="1323" height="277" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601007856372" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601007874864">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601008182111">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1601007874864" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1601008182111" />
   </component>
 </project>

@@ -201,13 +201,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601003896338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completed Module 2">
+      <created>1601004674480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601004674480</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I think its the first one" />
     <MESSAGE value="Completed Module" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Module" />
+    <MESSAGE value="Completed Module 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Module 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1601004300372">
@@ -222,29 +230,29 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="263" y="23" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.736@0.0.1366.736" timestamp="1601001144110" />
-    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1601003894928">
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1601004671810">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601003894928" />
-    <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1601003994557">
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601004671810" />
+    <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1601005721432">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1601003994557" />
-    <state width="1323" height="277" key="GridCell.Tab.0.center" timestamp="1601003994557">
+    <state width="1323" height="277" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
+    <state width="1323" height="277" key="GridCell.Tab.0.center" timestamp="1601005721432">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1601003994557" />
-    <state width="1323" height="277" key="GridCell.Tab.0.left" timestamp="1601003994557">
+    <state width="1323" height="277" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
+    <state width="1323" height="277" key="GridCell.Tab.0.left" timestamp="1601005721432">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1601003994557" />
-    <state width="1323" height="277" key="GridCell.Tab.0.right" timestamp="1601003994557">
+    <state width="1323" height="277" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
+    <state width="1323" height="277" key="GridCell.Tab.0.right" timestamp="1601005721432">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601003994557" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601003917002">
+    <state width="1323" height="277" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601007217023">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1601003917002" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1601007217023" />
   </component>
 </project>

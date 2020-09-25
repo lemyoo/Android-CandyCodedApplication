@@ -9,9 +9,10 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Completed Module">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android App.MainActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -95,6 +96,22 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -113,6 +130,57 @@
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="com.pluralsight.candycoded.MainActivity" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -170,6 +238,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android App.MainActivity" />
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -208,14 +278,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601004674480</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Completed Module">
+      <created>1601007271501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601007271501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I think its the first one" />
-    <MESSAGE value="Completed Module" />
     <MESSAGE value="Completed Module 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Module 2" />
+    <MESSAGE value="Completed Module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1601004300372">
@@ -230,29 +307,29 @@
       <screen x="0" y="0" width="1366" height="736" />
     </state>
     <state x="263" y="23" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.736@0.0.1366.736" timestamp="1601001144110" />
-    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1601004671810">
+    <state x="245" y="0" key="CommitChangelistDialog2" timestamp="1601007837687">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601004671810" />
-    <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1601005721432">
+    <state x="245" y="0" key="CommitChangelistDialog2/0.0.1366.736@0.0.1366.736" timestamp="1601007837687" />
+    <state width="1323" height="277" key="GridCell.Tab.0.bottom" timestamp="1601007856372">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
-    <state width="1323" height="277" key="GridCell.Tab.0.center" timestamp="1601005721432">
+    <state width="1323" height="277" key="GridCell.Tab.0.bottom/0.0.1366.736@0.0.1366.736" timestamp="1601007856372" />
+    <state width="1323" height="277" key="GridCell.Tab.0.center" timestamp="1601007856371">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
-    <state width="1323" height="277" key="GridCell.Tab.0.left" timestamp="1601005721432">
+    <state width="1323" height="277" key="GridCell.Tab.0.center/0.0.1366.736@0.0.1366.736" timestamp="1601007856371" />
+    <state width="1323" height="277" key="GridCell.Tab.0.left" timestamp="1601007856371">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
-    <state width="1323" height="277" key="GridCell.Tab.0.right" timestamp="1601005721432">
+    <state width="1323" height="277" key="GridCell.Tab.0.left/0.0.1366.736@0.0.1366.736" timestamp="1601007856371" />
+    <state width="1323" height="277" key="GridCell.Tab.0.right" timestamp="1601007856372">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state width="1323" height="277" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601005721432" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601007217023">
+    <state width="1323" height="277" key="GridCell.Tab.0.right/0.0.1366.736@0.0.1366.736" timestamp="1601007856372" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1601007874864">
       <screen x="0" y="0" width="1366" height="736" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1601007217023" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.736@0.0.1366.736" timestamp="1601007874864" />
   </component>
 </project>
